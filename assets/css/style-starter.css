@@ -8412,7 +8412,7 @@ button.bg-dark:focus {
 }
 
 .shadow-lg {
-  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.375) !important;
 }
 
 .shadow-none {
@@ -15579,7 +15579,7 @@ h3.title-style {
 
 /* grids section */
 .back-image-sec {
-  background: url(../images/grid1.jpg) no-repeat center;
+  background: url(../images/3d-pic-3.jpg) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
