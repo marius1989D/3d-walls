@@ -11,3 +11,7 @@ img {
     margin: 3px;
     padding: 3px;
 }
+
+.bgr-transparent{
+    background-color: hsla(89, 16%, 91%, 0.64)
+}
